@@ -9,6 +9,7 @@ Kubernetes: Cloud container
 
 # Testing Resources
 https://softwaretester.careers/kpi-suggestions-for-software-testers/
+Good email option for testing:  www.yopmail.com
 
 
 # API Resources
