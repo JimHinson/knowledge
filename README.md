@@ -1,6 +1,6 @@
 # knowledge
 
-# Acronyms  
+# Terms
 Beats: Data aggregator for Elastic Search  
 CAMA: computer-assisted mass appraisal  
 GCE: Google Cloud Experience  
